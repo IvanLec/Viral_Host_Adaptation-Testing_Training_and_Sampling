@@ -7,7 +7,7 @@ As a generalization for readers, an example of how to train models and test for 
 
 
 ### File specifications 
-The zip file ViralHostAdaptation.zip contains the notebook file NotebookVHA.ipynb from which everything can be run without any additional operation. 
+The zip file ViralHostAdaptation.zip contains the notebook file NotebookVHA.ipynb from which everything can be run once all packages have been installed. 
 A Notebook_Functions.jl file contains the functions written for the notebook scopes. A folder Trained Models contains .bin files with all the models already trained (more specification in the notebook). 
 The Datasets folder consists on random sequences used as trail genomes for test or train.
 An additional folder is present and discussed here below.
